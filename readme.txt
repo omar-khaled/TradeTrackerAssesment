@@ -1,0 +1,8 @@
+-- this project is created using laravel
+-- follow this URL for easy, proper download and installation of laravel (https://www.tutorialspoint.com/laravel/laravel_installation.htm)
+-- first download and install composer (https://getcomposer.org/Composer-Setup.exe)
+-- navigate to the root of TradeTracker folder via command console
+-- enter command "php artisan serve" to start the local server
+-- open the laravel development server (by default "http://localhost:8000/") in the browser to start using the solution
+-- to excute tests use command "vendor\bin\phpunit"
+-- to see code coverage dashboard run the server and go to "http://localhost:8000/code-coverage/index.html"
